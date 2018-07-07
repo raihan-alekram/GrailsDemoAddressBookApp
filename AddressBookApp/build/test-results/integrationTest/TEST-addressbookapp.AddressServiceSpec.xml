@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="addressbookapp.AddressServiceSpec" tests="5" skipped="0" failures="0" errors="0" timestamp="2018-07-07T16:00:14" hostname="Nokshi" time="31.814">
+  <properties/>
+  <testcase name="test get" classname="addressbookapp.AddressServiceSpec" time="27.252"/>
+  <testcase name="test list" classname="addressbookapp.AddressServiceSpec" time="1.156"/>
+  <testcase name="test count" classname="addressbookapp.AddressServiceSpec" time="1.172"/>
+  <testcase name="test delete" classname="addressbookapp.AddressServiceSpec" time="1.188"/>
+  <testcase name="test save" classname="addressbookapp.AddressServiceSpec" time="1.046"/>
+  <system-out><![CDATA[
+Configuring Spring Security Core ...
+... finished configuring Spring Security Core
+
+Grails application running at http://localhost:55973 in environment: test
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

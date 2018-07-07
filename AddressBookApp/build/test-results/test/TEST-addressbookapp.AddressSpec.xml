@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="addressbookapp.AddressSpec" tests="10" skipped="0" failures="0" errors="0" timestamp="2018-07-07T15:58:14" hostname="Nokshi" time="0.547">
+  <properties/>
+  <testcase name="test new domain" classname="addressbookapp.AddressSpec" time="0.0"/>
+  <testcase name="test domain instance" classname="addressbookapp.AddressSpec" time="0.0"/>
+  <testcase name="test basic persistence " classname="addressbookapp.AddressSpec" time="0.5"/>
+  <testcase name="test name cannot be null" classname="addressbookapp.AddressSpec" time="0.031"/>
+  <testcase name="test name cannot be blank" classname="addressbookapp.AddressSpec" time="0.0"/>
+  <testcase name="test phone can be null" classname="addressbookapp.AddressSpec" time="0.0"/>
+  <testcase name="test phone cannot be blank" classname="addressbookapp.AddressSpec" time="0.0"/>
+  <testcase name="test email can be null" classname="addressbookapp.AddressSpec" time="0.0"/>
+  <testcase name="test email cannot be blank" classname="addressbookapp.AddressSpec" time="0.016"/>
+  <testcase name="test email should be of proper format" classname="addressbookapp.AddressSpec" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

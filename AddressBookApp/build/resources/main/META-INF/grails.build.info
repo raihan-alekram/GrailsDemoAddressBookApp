@@ -1,0 +1,6 @@
+#Fri, 06 Jul 2018 23:39:19 -0700
+
+info.app.version=0.1
+info.app.name=AddressBookApp
+grails.env=test
+info.app.grailsVersion=3.3.6
